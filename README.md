@@ -1,4 +1,5 @@
-![MasterHead](https://lh3.googleusercontent.com/wUwls_zt43wzqMLITgLzXZsEUdc6kdjV2QxO1z-XcMpEkXLoPc6ZiLqYRdn8bmpjxnpZ5pYBk_VlqsdIyB5-4mkIEePqq-nF6x8FltAmp9Sjo9FMMXbQ619GWhPPPvy_N1o8q_QLtw=w2400)
+
+<a align="middle" href="https://lh3.googleusercontent.com/fK2bbQKqiJUes8Jcl0XCXUS-7_treRYe_QF28H0b_4_yhXjcGsJil8876N1aDSStpr9l8x4ghGozhOtaQY6R493ObR0ume1wJW5ulUUUCN4Fjilug63iCwilcHsmGkxQX3ax6xayfw=w2400?source=screenshot.guru" style="align:middle;"><img align="middle" src="https://lh3.googleusercontent.com/fK2bbQKqiJUes8Jcl0XCXUS-7_treRYe_QF28H0b_4_yhXjcGsJil8876N1aDSStpr9l8x4ghGozhOtaQY6R493ObR0ume1wJW5ulUUUCN4Fjilug63iCwilcHsmGkxQX3ax6xayfw=w600-h315-p-k"/></a>
 
 <h1 align="center">Hi 👋, I'm Justine Njuguna</h1>
 <h3 align="center">A passionate student of ALX Software Engineering from Kenya.</h3>
