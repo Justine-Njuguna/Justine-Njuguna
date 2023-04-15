@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_amaeldra" target="blank"><img src="https://img.shields.io/twitter/follow/i_amaeldra?logo=twitter&style=for-the-badge" alt="i_amaeldra" /></a> </p>
 
-- 🔭 I’m currently working on [Alx Software Engineering](https://www.alxafrica.com/software-engineering-2022/)
+- 🔭 I’m currently working on [Alx Software Engineering](https://www.alxafrica.com/software-engineering/)
 
 - 🌱 I’m currently learning **Ѕнεll, Js, Gιτ, C++, C, Hτϻl, CЅЅ**
 
