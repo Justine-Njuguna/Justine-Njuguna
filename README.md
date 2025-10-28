@@ -1,44 +1,21 @@
-<p align="center">
-  <a href="https://lh3.googleusercontent.com/fK2bbQKqiJUes8Jcl0XCXUS-7_treRYe_QF28H0b_4_yhXjcGsJil8876N1aDSStpr9l8x4ghGozhOtaQY6R493ObR0ume1wJW5ulUUUCN4Fjilug63iCwilcHsmGkxQX3ax6xayfw=w2400?source=screenshot.guru">
-    <img align="center" src="https://lh3.googleusercontent.com/fK2bbQKqiJUes8Jcl0XCXUS-7_treRYe_QF28H0b_4_yhXjcGsJil8876N1aDSStpr9l8x4ghGozhOtaQY6R493ObR0ume1wJW5ulUUUCN4Fjilug63iCwilcHsmGkxQX3ax6xayfw=w600-h315-p-k" />
-  </a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Justine Njuguna</h1>
-<h3 align="center">A passionate student of ALX Software Engineering from Kenya.</h3>
-
-<p align="center">
-  <img alt="Coding" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  <img alt="Coding" width="400" src="https://lh3.googleusercontent.com/cCB3UQI8yfkNVw0TJ63y5Rkjpv-GDg7Ym0s4xats17XxoWwTsvmAXQYuPJ24EOBRDSCCiGhlZ1jHmjvfeRGOGROjAmJL3uIPh9CBtV6j4_rXN9LmKeAFFYsOyXUTwNvHiYI1KDWRKQ=w2400" style="float:left;padding:5px;">
-</p>
+<h3 align="center">Learning Fullstack Development from Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justine-njuguna&label=Profile%20views&color=0e75b6&style=flat" alt="justine-njuguna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justine-njuguna" alt="justine-njuguna" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/i_amaeldra" target="blank"><img src="https://img.shields.io/twitter/follow/i_amaeldra?logo=twitter&style=for-the-badge" alt="i_amaeldra" /></a> </p>
+- 🔭 I’m currently working on learning Python for full-stack development.
 
-- 🔭 I’m currently working on [ALX Software Engineering](https://www.alxafrica.com/software-engineering/)
+- 🌱 I’m currently learning **Python**
 
-- 🌱 I’m currently learning **Shell, JS, Git, C++, C, HTML, CSS & React**
-
-- 💬 Ask me about **Bash, HTML, CSS, JS, and C**
+- 💬 Ask me about **C, HTML and Python**
 
 - 📫 How to reach me: [kjn003@outlook.com](mailto:kjn003@outlook.com)
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1UAlK9JBOdRPZ0k26xGYkqf7VdN8lrbKf/view?usp=share_link)
+- 📄 Know about my experiences: `Will come soon`
 
 - ⚡ Fun fact: **I love coffee, a lot! ☕**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/i_amaeldra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_amaeldra" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/a.e.l.d.r.a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.e.l.d.r.a" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
